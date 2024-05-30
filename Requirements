@@ -1,0 +1,8 @@
+### 4. requirements.txt
+
+```plaintext
+tensorflow
+pandas
+numpy
+scikit-learn
+pytest
