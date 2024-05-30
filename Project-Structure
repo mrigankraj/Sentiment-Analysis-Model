@@ -1,0 +1,22 @@
+sentiment_analysis/
+│
+├── data/
+│   └── sentiment_data.csv
+│
+├── src/
+│   ├── __init__.py
+│   ├── data_loader.py
+│   ├── model.py
+│   ├── train.py
+│   └── evaluate.py
+│
+├── tests/
+│   ├── __init__.py
+│   ├── test_data_loader.py
+│   ├── test_model.py
+│   └── test_train.py
+│
+├── .gitignore
+├── README.md
+├── requirements.txt
+└── main.py
